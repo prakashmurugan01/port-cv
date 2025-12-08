@@ -34,7 +34,7 @@ export function ProjectsSection() {
       ],
       technologies: ["Django", "Django REST Framework", "Redis", ],
       status: "In Progress",
-      github: "#",
+      github: "https://github.com/prakashmurugan01/Xplore-IT-Hub-Institution-Management-System",
       demo: "#" // Placeholder for demo link
     },
     {
