@@ -5,7 +5,7 @@ import { Github, Linkedin, Mail, Download, MapPin, Calendar } from "lucide-react
 
 export function HeroSection() {
   const currentProjects = [
-    "Xplore-IT-Hub-Institution-Management-System"
+    "Xplore-IT-Hub-Institution-Management-System",
     "Plant Disease Detection AI",
     "Portfolio Website"
   ]
