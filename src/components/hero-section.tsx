@@ -5,14 +5,14 @@ import { Github, Linkedin, Mail, Download, MapPin, Calendar } from "lucide-react
 
 export function HeroSection() {
   const currentProjects = [
+    "Xplore-IT-Hub-Institution-Management-System"
     "Plant Disease Detection AI",
-    "Hotel Booking System",
     "Portfolio Website"
   ]
 
   const recentCertifications = [
     "Prompt Engineering",
-    "Advanced JavaScript",
+    "JavaScript",
     "Cloud Computing",
     "C++ Programming"
   ]
