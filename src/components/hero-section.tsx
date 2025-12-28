@@ -123,6 +123,16 @@ export function HeroSection() {
               <p className="text-sm text-muted-foreground">Optimus Pvt Ltd</p>
             </div>
           </Card>
+          <Card className="p-6 bg-card-gradient shadow-card-soft hover:shadow-premium transition-all duration-300">
+            <h3 className="text-lg font-semibold mb-2">Experience</h3>
+            <div className="space-y-2">
+              <div className="flex items-center justify-between">
+                <span className="font-medium">Web Developer Intern</span>
+                <Badge variant="outline" className="border-primary text-primary">Active</Badge>
+              </div>
+              <p className="text-sm text-muted-foreground">Optimus Pvt Ltd</p>
+            </div>
+          </Card>
         </div>
       </div>
     </section>
